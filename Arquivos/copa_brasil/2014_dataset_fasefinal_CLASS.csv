@@ -1,0 +1,35 @@
+data;mandante;gols.mandante;gols.visitante;visitante;classificou;publico.pagante;arena;cidade
+27 de agosto;América de Natal;3;0;Atlético Paranaense;A;11 221;Arena das Dunas; Natal
+3 de setembro;Atlético Paranaense;2;0;América de Natal;T;17 369;Arena da Baixada; Curitiba
+27 de agosto;Coritiba;3;0;Flamengo;A;"8 695
+";Estádio Couto Pereira; Curitiba
+3 de setembro;Flamengo;3;0;Coritiba;F;18 559;Estádio do Maracanã; Rio de Janeiro
+27 de agosto;Bragantino;1;0;Corinthians;A;28 820;Arena Pantanal; Cuiabá
+3 de setembro;Corinthians;3;1;Bragantino;F;27 817;Arena Corinthians; São Paulo
+27 de agosto;Palmeiras;0;1;Atlético Mineiro;A;18 396;Estádio do Pacaembu; São Paulo
+4 de setembro;Atlético Mineiro;2;0;Palmeiras;T;19 657;Estádio Independência; Belo Horizonte
+27 de agosto;Cruzeiro;5;0;Santa Rita;A;15 048;Estádio Mineirão; Belo Horizonte
+3 de setembro;Santa Rita;1;2;Cruzeiro;T;"971
+ ";Estádio Fumeirão; Arapiraca
+26 de agosto;Vasco da Gama;1;1;ABC;A;"6 072
+";Estádio São Januário; Rio de Janeiro
+2 de setembro;ABC;2;1;Vasco da Gama;A;26 670;Arena das Dunas; Natal
+27 de agosto;Botafogo;1;2;Ceará;A;"7 742
+";Estádio do Maracanã; Rio de Janeiro
+3 de setembro;Ceará;3;4;Botafogo;F;37 794;Estádio Castelão; Fortaleza
+28 de agosto;Grêmio;0;2;Santos;T;28 091;Arena do Grêmio; Porto Alegre
+1 de outubro;América de Natal;0;1;Flamengo;A;27 831;Arena das Dunas; Natal
+15 de outubro;Flamengo;1;0;América de Natal;T;37 760;Estádio do Maracanã; Rio de Janeiro
+1 de outubro;Corinthians;2;0;Atlético Mineiro;A;27 457;Arena Corinthians; São Paulo
+15 de outubro;Atlético Mineiro;4;1;Corinthians;F;32 640;Estádio Mineirão; Belo Horizonte
+1 de outubro;Cruzeiro;1;0;ABC;A;14 063;Estádio Mineirão; Belo Horizonte
+15 de outubro;ABC;3;2;Cruzeiro;T;18 530;Arena das Dunas; Natal
+1 de outubro;Botafogo;2;3;Santos;A;"7 740
+";Estádio do Maracanã; Rio de Janeiro
+16 de outubro;Santos;5;0;Botafogo;T;13 459;Estádio do Pacaembu; São Paulo
+29 de outubro;Flamengo;2;0;Atlético Mineiro;A;40 909;Estádio do Maracanã; Rio de Janeiro
+5 de novembro;Atlético Mineiro;4;1;Flamengo;F;41 352;Estádio Mineirão; Belo Horizonte
+29 de outubro;Cruzeiro;1;0;Santos;A;25 714;Estádio Mineirão; Belo Horizonte
+5 de novembro;Santos;3;3;Cruzeiro;T;11 952;Estádio Vila Belmiro; Santos
+12 de novembro;Atlético Mineiro;2;0;Cruzeiro;A;18 578;Estádio Independência; Belo Horizonte
+26 de novembro;Cruzeiro;0;1;Atlético Mineiro;T;39 786;Estádio Mineirão; Belo Horizonte

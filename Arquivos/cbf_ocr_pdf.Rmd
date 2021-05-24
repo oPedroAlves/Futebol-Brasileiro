@@ -1,0 +1,38 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Leitura de pdf com ocr
+
+1. converter pdf em png (300dpi)
+2. ocr do png 
+3. usar funções para extração das tabelas
+
+```{r}
+library(pdftools)
+
+f1="142371b.pdf"
+
+pdf_info(f1, opw = "", upw = "")
+
+f_out=paste0("sumula",1,".png")
+pdf_convert(f1, format = "png", pages = 1, filenames = f_out,dpi = 600, antialias = TRUE, opw = "", upw = "", verbose = TRUE)
+
+
+# Text output
+library(tesseract)
+text <- ocr("sumula1.png")
+cat(text)
+
+
+
+library(tidyverse)
+text=strsplit(text,"\n")
+
+
+
+```
+
+
+

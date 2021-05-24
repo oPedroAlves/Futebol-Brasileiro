@@ -1,0 +1,195 @@
+"";"data";"mandante";"gols.mandante";"gols.visitante";"visitante";"publico.pagante";"arena";"cidade"
+"1";"10 de fevereiro";"Sousa";"1";"2";"Vasco da Gama";"7.329
+";"Estádio Almeidão";" João Pessoa"
+"2";"25 de fevereiro";"Vasco da Gama";"0";"0";"Sousa";"1.294
+";"Estádio São Januário";" Rio de Janeiro"
+"3";"24 de fevereiro";"ASA";"0";"0";"Nacional-AM";"898
+ ";"Estádio Juca Sampaio";" Palmeira dos Índios"
+"4";"10 de março";"Nacional-AM";"2";"2";"ASA";"3.774
+";"Estádio Vivaldão";" Manaus"
+"5";"24 de fevereiro";"Picos";"0";"5";"Ceará";"720
+ ";"Estádio Helvídio Nunes";" Picos"
+"6";"10 de fevereiro";"Corinthians Paranaense";"1";"0";"Juventude";"74
+  ";"Eco-Estádio";" Curitiba"
+"7";"24 de fevereiro";"Juventude";"0";"1";"Corinthians Paranaense";"2.415
+";"Estádio Alfredo Jaconi";" Caxias do Sul"
+"8";"24 de fevereiro";"Ituiutaba";"2";"3";"Goiás";"806
+ ";"Estádio da Fazendinha";" Ituiutaba"
+"9";"10 de março";"Goiás";"0";"0";"Ituiutaba";"1.725
+";"Estádio da Serrinha";" Goiânia"
+"10";"24 de fevereiro";"São José-AP";"1";"1";"América de Natal";"362
+ ";"Estádio Glicério Marques";" Macapá"
+"11";"10 de março";"América de Natal";"0";"1";"São José-AP";"1.397
+";"Estádio Machadão";" Natal"
+"12";"24 de fevereiro";"Corinthians-AL";"3";"1";"Vitória";"872
+ ";"Estádio Nelson Peixoto Feijó";" Maceió"
+"13";"10 de março";"Vitória";"4";"0";"Corinthians-AL";"13.917";"Estádio Barradão";" Salvador"
+"14";"24 de fevereiro";"Ivinhema";"1";"1";"Náutico";"0";"Estádio Saraivão";" Ivinhema"
+"15";"10 de março";"Náutico";"3";"1";"Ivinhema";"4.846
+";"Estádio dos Aflitos";" Recife"
+"16";"10 de fevereiro";"São Raimundo-PA";"1";"0";"Botafogo";"12.768";"Estádio Colosso do Tapajós";" Santarém"
+"17";"11 de março";"Botafogo";"4";"3";"São Raimundo-PA";"2.841
+";"Estádio do Engenhão";" Rio de Janeiro"
+"18";"24 de fevereiro";"América-AM";"0";"1";"Santa Cruz";"2.441
+";"Estádio Vivaldão";" Manaus"
+"19";"10 de março";"Santa Cruz";"3";"0";"América-AM";"15.128";"Estádio do Arruda";" Recife"
+"20";"10 de fevereiro";"Vitória-ES";"0";"2";"Bahia";"1.324
+";"Estádio Ninho das Águias";" Vitória"
+"21";"10 de fevereiro";"ASSU";"0";"3";"Atlético Goianiense";"960
+ ";"Estádio Edgarzão";" Assu"
+"22";"10 de fevereiro";"Flamengo-PI";"0";"1";"Palmeiras";"0";"Estádio Albertão";" Teresina"
+"23";"25 de fevereiro";"Palmeiras";"4";"0";"Flamengo-PI";"6.859
+";"Estádio Palestra Itália";" São Paulo"
+"24";"10 de fevereiro";"Potyguar Seridoense";"0";"0";"Paysandu";"702
+ ";"Estádio Bezerrão";" Currais Novos"
+"25";"24 de fevereiro";"Paysandu";"3";"1";"Potyguar Seridoense";"4.984
+";"Estádio Curuzu";" Belém"
+"26";"10 de fevereiro";"Vilhena";"2";"2";"Atlético Paranaense";"1.528
+";"Estádio Portal da Amazônia";" Vilhena"
+"27";"24 de fevereiro";"Atlético Paranaense";"4";"0";"Vilhena";"9.484
+";"Arena da Baixada";" Curitiba"
+"28";"10 de fevereiro";"São Domingos";"1";"1";"Sampaio Corrêa";"1.865
+";"Estádio Batistão";" Aracaju"
+"29";"25 de fevereiro";"Sampaio Corrêa";"2";"1";"São Domingos";"3.889
+";"Estádio Nhozinho Santos";" São Luís"
+"30";"24 de fevereiro";"Confiança";"1";"1";"Fluminense";"8.563
+";"Estádio Batistão";" Aracaju"
+"31";"10 de março";"Fluminense";"2";"0";"Confiança";"2.360
+";"Estádio do Maracanã";" Rio de Janeiro"
+"32";"24 de fevereiro";"Uberaba";"1";"0";"Londrina";"1.113
+";"Estádio Uberabão";" Uberaba"
+"33";"10 de março";"Londrina";"0";"2";"Uberaba";"846
+ ";"Estádio Felipão";" Paranavaí"
+"34";"24 de fevereiro";"Atlético Roraima";"0";"7";"Portuguesa";"368
+ ";"Estádio Ribeirão";" Boa Vista"
+"35";"10 de fevereiro";"JV Lideral";"0";"0";"Ponte Preta";"2.741
+";"Estádio Manoel Panelada";" Porto Franco"
+"36";"10 de fevereiro";"Ponte Preta";"4";"0";"JV Lideral";"2.874
+";"Estádio Moisés Lucarelli";" Campinas"
+"37";"10 de fevereiro";"Araguaia";"1";"3";"Grêmio";"2.297
+";"Estádio Lutero Lopes";" Rondonópolis"
+"38";"10 de fevereiro";"Votoraty";"4";"0";"Treze";"1.794
+";"Estádio Domenico Paolo";" Votorantim"
+"39";"24 de fevereiro";"Treze";"2";"1";"Votoraty";"2.709
+";"Estádio Amigão";" Campina Grande"
+"40";"24 de fevereiro";"Luverdense";"0";"1";"Coritiba";"3.234
+";"Estádio Passo das Emas";" Lucas do Rio Verde"
+"41";"10 de março";"Coritiba";"1";"0";"Luverdense";"4.203
+";"Estádio Couto Pereira";" Curitiba"
+"42";"24 de fevereiro";"Ypiranga de Erechim";"0";"3";"Avaí";"1.938
+";"Estádio Colosso da Lagoa";" Erechim"
+"43";"24 de fevereiro";"Naviraiense";"0";"1";"Santos";"6.973
+";"Estádio Morenão";" Campo Grande"
+"44";"10 de março";"Santos";"10";"0";"Naviraiense";"11.336";"Estádio da Vila Belmiro";" Santos"
+"45";"24 de fevereiro";"São Mateus";"1";"2";"Remo";"1.538
+";"Estádio do Conilon";" Jaguaré"
+"46";"10 de março";"Remo";"4";"1";"São Mateus";"6.028
+";"Estádio Baenão";" Belém"
+"47";"24 de fevereiro";"Araguaína";"0";"1";"Guarani";"1.848
+";"Estádio Mirandão";" Araguaína"
+"48";"10 de março";"Guarani";"2";"1";"Araguaína";"1.437
+";"Estádio Brinco de Ouro";" Campinas"
+"49";"10 de fevereiro";"Tigres do Brasil";"2";"2";"Fortaleza";"217
+ ";"Estádio de Los Larios";" Xerém"
+"50";"24 de fevereiro";"Fortaleza";"3";"2";"Tigres do Brasil";"5.660
+";"Estádio Castelão";" Fortaleza"
+"51";"24 de fevereiro";"Juventus-AC";"0";"7";"Atlético Mineiro";"6.030
+";"Arena da Floresta";" Rio Branco"
+"52";"24 de fevereiro";"Chapecoense";"3";"0";"Brasiliense";"4.642
+";"Arena Condá";" Chapecó"
+"53";"10 de março";"Brasiliense";"2";"1";"Chapecoense";"1.958
+";"Estádio Serejão";" Brasília"
+"54";"24 de fevereiro";"Brasília";"2";"4";"Sport";"451
+ ";"Estádio Boca do Jacaré";" Taguatinga"
+"55";"10 de fevereiro";"Cerâmica";"1";"1";"Paraná";"263
+ ";"Estádio Passo D'Areia";" Porto Alegre"
+"56";"24 de fevereiro";"Paraná";"6";"1";"Cerâmica";"1.151
+";"Estádio da Vila Capanema";" Curitiba"
+"57";"17 de março";"ASA";"1";"1";"Vasco da Gama";"3.097
+";"Estádio Nelsão";" Maceió"
+"58";"31 de março";"Vasco da Gama";"3";"1";"ASA";"2.204
+";"Estádio São Januário";" Rio de Janeiro"
+"59";"17 de março";"Corinthians Paranaense";"2";"1";"Ceará";"156
+ ";"Eco-Estádio";" Curitiba"
+"60";"31 de março";"Ceará";"1";"1";"Corinthians Paranaense";"18.361";"Estádio Castelão";" Fortaleza"
+"61";"17 de março";"São José-AP";"0";"1";"Goiás";"2.521
+";"Estádio Glicério Marques";" Macapá"
+"62";"31 de março";"Goiás";"7";"0";"São José-AP";"1.009
+";"Estádio da Serrinha";" Goiânia"
+"63";"17 de março";"Náutico";"0";"1";"Vitória";"3.854
+";"Estádio dos Aflitos";" Recife"
+"64";"31 de março";"Vitória";"5";"0";"Náutico";"12.071";"Estádio Barradão";" Salvador"
+"65";"17 de março";"Santa Cruz";"0";"1";"Botafogo";"28.576";"Estádio do Arruda";" Recife"
+"66";"1 de abril";"Botafogo";"2";"3";"Santa Cruz";"4.911
+";"Estádio do Engenhão";" Rio de Janeiro"
+"67";"17 de março";"Atlético Goianiense";"2";"0";"Bahia";"2.294
+";"Estádio Antonio Accioly";" Goiânia"
+"68";"31 de março";"Bahia";"1";"0";"Atlético Goianiense";"21.718";"Estádio de Pituaçu";" Salvador"
+"69";"17 de março";"Paysandu";"1";"2";"Palmeiras";"27.703";"Estádio Mangueirão";" Belém"
+"70";"31 de março";"Palmeiras";"1";"0";"Paysandu";"7.406
+";"Estádio Palestra Itália";" São Paulo"
+"71";"17 de março";"Sampaio Corrêa";"1";"1";"Atlético Paranaense";"14.598";"Estádio Nhozinho Santos";" São Luís"
+"72";"1 de abril";"Atlético Paranaense";"2";"0";"Sampaio Corrêa";"13.222";"Arena da Baixada";" Curitiba"
+"73";"17 de março";"Uberaba";"0";"2";"Fluminense";"9.300
+";"Estádio Uberabão";" Uberaba"
+"74";"17 de março";"Ponte Preta";"1";"1";"Portuguesa";"3.836
+";"Estádio Moisés Lucarelli";" Campinas"
+"75";"31 de março";"Portuguesa";"2";"1";"Ponte Preta";"1.216
+";"Estádio do Canindé";" São Paulo"
+"76";"17 de março";"Votoraty";"0";"1";"Grêmio";"5.258
+";"Estádio Domenico Paolo";" Votorantim"
+"77";"1 de abril";"Grêmio";"3";"0";"Votoraty";"12.406";"Estádio Olímpico Monumental";" Porto Alegre"
+"78";"17 de março";"Avaí";"1";"1";"Coritiba";"6.595
+";"Estádio da Ressacada";" Florianópolis"
+"79";"31 de março";"Coritiba";"0";"1";"Avaí";"7.530
+";"Estádio Couto Pereira";" Curitiba"
+"80";"18 de março";"Remo";"0";"4";"Santos";"19.445";"Estádio Mangueirão";" Belém"
+"81";"17 de março";"Fortaleza";"2";"0";"Guarani";"3.850
+";"Estádio Alcides Santos";" Fortaleza"
+"82";"31 de março";"Guarani";"2";"0";"Fortaleza";"2.042
+";"Estádio Brinco de Ouro";" Campinas"
+"83";"17 de março";"Chapecoense";"1";"0";"Atlético Mineiro";"5.020
+";"Arena Condá";" Chapecó"
+"84";"1 de abril";"Atlético Mineiro";"6";"0";"Chapecoense";"35.396";"Estádio Mineirão";" Belo Horizonte"
+"85";"17 de março";"Paraná";"1";"1";"Sport";"3.897
+";"Estádio Durival Britto";" Curitiba"
+"86";"31 de março";"Sport";"1";"0";"Paraná";"14.538";"Estádio da Ilha do Retiro";" Recife"
+"87";"14 de abril";"Corinthians Paranaense";"0";"1";"Vasco da Gama";"1.462
+";"Estádio Durival Britto";" Curitiba"
+"88";"21 de abril";"Vasco da Gama";"2";"1";"Corinthians Paranaense";"11.798";"Estádio São Januário";" Rio de Janeiro"
+"89";"15 de abril";"Vitória";"4";"0";"Goiás";"8.846
+";"Estádio Barradão";" Salvador"
+"90";"22 de abril";"Goiás";"2";"2";"Vitória";"2.107
+";"Estádio Serra Dourada";" Goiânia"
+"91";"14 de abril";"Santa Cruz";"1";"2";"Atlético Goianiense";"34.914";"Estádio do Arruda";" Recife"
+"92";"21 de abril";"Atlético Goianiense";"2";"0";"Santa Cruz";"4.805
+";"Estádio Serra Dourada";" Goiânia"
+"93";"15 de abril";"Palmeiras";"1";"0";"Atlético Paranaense";"20.269";"Estádio Palestra Itália";" São Paulo"
+"94";"21 de abril";"Atlético Paranaense";"1";"1";"Palmeiras";"20.367";"Arena da Baixada";" Curitiba"
+"95";"14 de abril";"Portuguesa";"0";"1";"Fluminense";"2.728
+";"Estádio do Canindé";" São Paulo"
+"96";"22 de abril";"Fluminense";"3";"2";"Portuguesa";"7.863
+";"Estádio do Maracanã";" Rio de Janeiro"
+"97";"14 de abril";"Grêmio";"3";"1";"Avaí";"14.832";"Estádio Olímpico";" Porto Alegre"
+"98";"21 de abril";"Avaí";"3";"2";"Grêmio";"12.414";"Estádio da Ressacada";" Florianópolis"
+"99";"14 de abril";"Santos";"8";"1";"Guarani";"8.131
+";"Estádio da Vila Belmiro";" Santos"
+"100";"21 de abril";"Guarani";"3";"2";"Santos";"8.481
+";"Estádio Brinco de Ouro";" Campinas"
+"101";"14 de abril";"Atlético Mineiro";"1";"0";"Sport";"17.253";"Estádio Mineirão";" Belo Horizonte"
+"102";"21 de abril";"Sport";"0";"2";"Atlético Mineiro";"28.002";"Estádio da Ilha do Retiro";" Recife"
+"103";"28 de abril";"Vitória";"2";"0";"Vasco da Gama";"12.881";"Estádio Barradão";" Salvador"
+"104";"5 de maio";"Vasco da Gama";"3";"1";"Vitória";"14.221";"Estádio São Januário";" Rio de Janeiro"
+"105";"29 de abril";"Palmeiras";"1";"0";"Atlético Goianiense";"23.892";"Estádio Palestra Itália";" São Paulo"
+"106";"5 de maio";"Atlético Goianiense";"1";"0";"Palmeiras";"21.889";"Estádio Serra Dourada";" Goiânia"
+"107";"29 de abril";"Fluminense";"2";"3";"Grêmio";"15.336";"Estádio do Maracanã";" Rio de Janeiro"
+"108";"5 de maio";"Grêmio";"2";"0";"Fluminense";"23.356";"Estádio Olímpico";" Porto Alegre"
+"109";"28 de abril";"Atlético Mineiro";"3";"2";"Santos";"46.239";"Estádio Mineirão";" Belo Horizonte"
+"110";"5 de maio";"Santos";"3";"1";"Atlético Mineiro";"14.245";"Estádio da Vila Belmiro";" Santos"
+"111";"12 de maio";"Atlético Goianiense";"1";"0";"Vitória";"6.367
+";"Estádio Serra Dourada";" Goiânia"
+"112";"19 de maio";"Vitória";"4";"0";"Atlético Goianiense";"32.891";"Estádio Barradão";" Salvador"
+"113";"12 de maio";"Grêmio";"4";"3";"Santos";"38.745";"Estádio Olímpico";" Porto Alegre"
+"114";"19 de maio";"Santos";"3";"1";"Grêmio";"13.896";"Estádio da Vila Belmiro";" Santos"
+"115";"28 de julho";"Santos";"2";"0";"Vitória";"14.060";"Estádio da Vila Belmiro";" Santos"
+"116";"4 de agosto";"Vitória";"2";"1";"Santos";"35.000";"Estádio Barradão";" Salvador"

@@ -1,0 +1,319 @@
+fase;ano;data;mandante;gols.mandante;gols.visitante;visitante;publico.pagante;arena;cidade;capacidade
+terceira;2016;20 de julho;Gama;0;0;Santos;12 066;Estádio Bezerrão; Gama;20.310
+terceira;2016;27 de julho;Santos;3;0;Gama;"9 883
+";Estádio Vila Belmiro; Santos;16.068
+terceira;2016;13 de julho;Botafogo-PB;3;0;Ceará;"8 945
+";Estádio Almeidão; João Pessoa;19.000
+terceira;2016;20 de julho;Ceará;0;0;Botafogo-PB;18 183;Estádio Presidente Vargas; Fortaleza;20.262
+terceira;2016;13 de julho;Vasco da Gama;1;1;Santa Cruz;"6 398
+";Estádio São Januário; Rio de Janeiro;21.880
+terceira;2016;20 de julho;Santa Cruz;2;3;Vasco da Gama;14 264;Estádio do Arruda; Recife;60.044
+terceira;2016;6 de julho;Vitória;1;2;Cruzeiro;"8 661
+";Estádio Barradão; Salvador;34.535
+terceira;2016;20 de julho;Cruzeiro;2;1;Vitória;10 775;Estádio Mineirão; Belo Horizonte;61.846
+terceira;2016;20 de julho;Juventude;0;0;Paysandu;"1 625
+";Estádio Alfredo Jaconi; Caxias do Sul;19.924
+terceira;2016;27 de julho;Paysandu;1;2;Juventude;12 878;Estádio da Curuzu; Belém;16.200
+terceira;2016;21 de julho;Atlético Paranaense;0;0;Chapecoense;22 181;Arena da Baixada; Curitiba;40.305
+terceira;2016;27 de julho;Chapecoense;1;1;Atlético Paranaense;"5 297
+";Arena Condá; Chapecó;15.765
+terceira;2016;7 de julho;América Mineiro;1;0;Fortaleza;"924
+ ";Estádio Independência; Belo Horizonte;23.018
+terceira;2016;28 de julho;Fortaleza;4;1;América Mineiro;40 203;Estádio Castelão; Fortaleza;40.149
+terceira;2016;6 de julho;Fluminense;1;1;Ypiranga de Erechim;"492
+ ";Estádio da Cidadania; Volta Redonda;20.255
+terceira;2016;27 de julho;Ypiranga de Erechim;0;2;Fluminense;"5 949
+";Estádio Colosso da Lagoa; Erechim;30.000
+terceira;2016;13 de julho;Figueirense;0;0;Ponte Preta;"4 678
+";Estádio Orlando Scarpelli; Florianópolis;19.584
+terceira;2016;27 de julho;Ponte Preta;5;0;Figueirense;"4 351
+";Estádio Moisés Lucarelli; Campinas;17.728
+terceira;2016;13 de julho;Bragantino;2;2;Botafogo;"1 434
+";Estádio Nabi Abi Chedid; Bragança Paulista;17.724
+terceira;2016;27 de julho;Botafogo;1;0;Bragantino;"4 314
+";Estádio Luso-Brasileiro; Rio de Janeiro;6.437
+oitavas;2016;24 de agosto;Santos;3;1;Vasco da Gama;"6 130
+";Estádio Vila Belmiro; Santos;16.068
+oitavas;2016;21 de setembro;Vasco da Gama;2;2;Santos;18 265;Estádio São Januário; Rio de Janeiro;21.880
+oitavas;2016;31 de agosto;Internacional;3;0;Fortaleza;11 476;Estádio Beira-Rio; Porto Alegre;50.128
+oitavas;2016;22 de setembro;Fortaleza;1;0;Internacional;17 375;Estádio Castelão; Fortaleza;40.149
+oitavas;2016;24 de agosto;Atlético Mineiro;1;1;Ponte Preta;11 556;Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2016;21 de setembro;Ponte Preta;2;2;Atlético Mineiro;"8 588
+";Estádio Moisés Lucarelli; Campinas;17.728
+oitavas;2016;24 de agosto;São Paulo;1;2;Juventude;"6 643
+";Estádio do Morumbi; São Paulo;72.039
+oitavas;2016;22 de setembro;Juventude;0;1;São Paulo;10 095;Estádio Alfredo Jaconi; Caxias do Sul;19.924
+oitavas;2016;31 de agosto;Fluminense;1;1;Corinthians;"7 027
+";Estádio Giulite Coutinho; Mesquita;13.544
+oitavas;2016;21 de setembro;Corinthians;1;0;Fluminense;20 614;Arena Corinthians; São Paulo;45.000
+oitavas;2016;1 de setembro;Botafogo;2;5;Cruzeiro;"4 491
+";Estádio Luso-Brasileiro; Rio de Janeiro;6.437
+oitavas;2016;21 de setembro;Cruzeiro;1;0;Botafogo;10 604;Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2016;24 de agosto;Atlético Paranaense;0;1;Grêmio;14 300;Arena da Baixada; Curitiba;40.305
+oitavas;2016;21 de setembro;Grêmio;0;1;Atlético Paranaense;12 321;Arena do Grêmio; Porto Alegre;55.662
+oitavas;2016;31 de agosto;Palmeiras;3;0;Botafogo-PB;24 512;Allianz Parque; São Paulo;43.713
+oitavas;2016;21 de setembro;Botafogo-PB;1;0;Palmeiras;11 298;Estádio Almeidão; João Pessoa;19.000
+quartas;2016;28 de setembro;Santos;2;1;Internacional;"6 592
+";Estádio Vila Belmiro; Santos;16.068
+quartas;2016;19 de outubro;Internacional;2;0;Santos;15 065;Estádio Beira-Rio; Porto Alegre;50.128
+quartas;2016;28 de setembro;Atlético Mineiro;1;0;Juventude;36 846;Estádio Mineirão; Belo Horizonte;61.846
+quartas;2016;19 de outubro;Juventude;1;0;Atlético Mineiro;"4 457
+";Estádio Alfredo Jaconi; Caxias do Sul;19.924
+quartas;2016;28 de setembro;Corinthians;2;1;Cruzeiro;18 796;Arena Corinthians; São Paulo;45.000
+quartas;2016;19 de outubro;Cruzeiro;4;2;Corinthians;32 738;Estádio Mineirão; Belo Horizonte;61.846
+quartas;2016;28 de setembro;Grêmio;2;1;Palmeiras;24 471;Arena do Grêmio; Porto Alegre;55.662
+quartas;2016;19 de outubro;Palmeiras;1;1;Grêmio;29 991;Allianz Parque; São Paulo;43.713
+semi;2016;26 de outubro;Internacional;1;2;Atlético Mineiro;27 233;Estádio Beira-Rio; Porto Alegre;50.128
+semi;2016;2 de novembro;Atlético Mineiro;2;2;Internacional;20 447;Estádio Independência; Belo Horizonte;23.018
+semi;2016;26 de outubro;Cruzeiro;0;2;Grêmio;50 715;Estádio Mineirão; Belo Horizonte;61.846
+semi;2016;2 de novembro;Grêmio;0;0;Cruzeiro;47 687;Arena do Grêmio; Porto Alegre;55.662
+final;2016;23 de novembro;Atlético Mineiro;1;3;Grêmio;47 944;Estádio Mineirão; Belo Horizonte;61.846
+final;2016;7 de dezembro;Grêmio;1;1;Atlético Mineiro;52 233;Arena do Grêmio; Porto Alegre;55.662
+terceira;2017;8 de março;Boavista-RJ;0;3;Sport;"619
+ ";Estádio Elcyrzão; Saquarema;6.000
+terceira;2017;15 de março;Sport;1;0;Boavista-RJ;"1 531
+";Estádio Ilha do Retiro; Recife;32.983
+terceira;2017;8 de março;Joinville;3;1;Gurupi;"3 360
+";Arena Joinville; Joinville;20.160
+terceira;2017;15 de março;Gurupi;1;0;Joinville;"2 005
+";Estádio Resendão; Gurupi;3.000
+terceira;2017;8 de março;Murici;0;2;Cruzeiro;"1 639
+";Estádio José Gomes da Costa; Murici;4.000
+terceira;2017;15 de março;Cruzeiro;3;0;Murici;"6 963
+";Estádio Mineirão; Belo Horizonte;61.846
+terceira;2017;9 de março;Criciúma;1;1;Fluminense;"5 476
+";Estádio Heriberto Hülse; Criciúma;19.300
+terceira;2017;15 de março;Fluminense;3;2;Criciúma;"6 028
+";Estádio Giulite Coutinho; Mesquita;13.544
+terceira;2017;8 de março;Sampaio Corrêa;1;4;Internacional;"6 080
+";Estádio Castelão; São Luís;40.149
+terceira;2017;15 de março;Internacional;3;0;Sampaio Corrêa;"7 620
+";Estádio Beira-Rio; Porto Alegre;50.128
+terceira;2017;9 de março;Luverdense;0;2;Corinthians;13 324;Arena Pantanal; Cuiabá;44.000
+terceira;2017;16 de março;Corinthians;1;1;Luverdense;25 082;Arena Corinthians; São Paulo;45.000
+terceira;2017;8 de março;Goiás;4;0;Cuiabá;"5 148
+";Estádio Serra Dourada; Goiânia;42.000
+terceira;2017;16 de março;Cuiabá;1;1;Goiás;"1 092
+";Arena Pantanal; Cuiabá;44.000
+terceira;2017;9 de março;Vasco da Gama;1;1;Vitória;"9 266
+";Estádio São Januário; Rio de Janeiro;21.880
+terceira;2017;16 de março;Vitória;1;0;Vasco da Gama;18 264;Estádio Barradão; Salvador;34.535
+terceira;2017;16 de março;ASA;0;0;Paraná;"2 645
+";Estádio Fumeirão; Arapiraca;15.000
+terceira;2017;5 de abril;Paraná;0;0;ASA;"6 199
+";Estádio Vila Capanema; Curitiba;17.140
+terceira;2017;8 de março;São Paulo;3;1;ABC;15 101;Estádio do Morumbi; São Paulo;72.039
+terceira;2017;15 de março;ABC;1;1;São Paulo;14 746;Estádio Frasqueirão; Natal;14.740
+quarta;2017;12 de abril;Sport;2;1;Joinville;"3 979
+";Estádio Ilha do Retiro; Recife;32.983
+quarta;2017;19 de abril;Joinville;2;1;Sport;"4 934
+";Arena Joinville; Joinville;20.160
+quarta;2017;13 de abril;Vitória;0;2;Paraná;"9 220
+";Estádio Barradão; Salvador;34.535
+quarta;2017;20 de abril;Paraná;0;0;Vitória;"7 399
+";Estádio Vila Capanema; Curitiba;17.140
+quarta;2017;13 de abril;Goiás;2;1;Fluminense;15 005;Estádio Serra Dourada; Goiânia;42.000
+quarta;2017;19 de abril;Fluminense;3;0;Goiás;17 946;Estádio do Maracanã; Rio de Janeiro;78.838
+quarta;2017;12 de abril;Internacional;1;1;Corinthians;34 350;Estádio Beira-Rio; Porto Alegre;50.128
+quarta;2017;19 de abril;Corinthians;1;1;Internacional;"32352
+";Arena Corinthians; São Paulo;45.000
+quarta;2017;13 de abril;São Paulo;0;2;Cruzeiro;43 662;Estádio do Morumbi; São Paulo;72.039
+quarta;2017;19 de abril;Cruzeiro;1;2;São Paulo;32 353;Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2017;24 de maio;Paraná;3;2;Atlético Mineiro;17 984;Estádio Couto Pereira; Curitiba;40.502
+oitavas;2017;31 de maio;Atlético Mineiro;2;0;Paraná;16 614;Estádio Independência; Belo Horizonte;23.018
+oitavas;2017;26 de abril;Botafogo;2;1;Sport;10 455;Estádio Nilton Santos; Rio de Janeiro;34.171
+oitavas;2017;31 de maio;Sport;1;1;Botafogo;"9 306
+";Estádio Ilha do Retiro; Recife;32.983
+oitavas;2017;10 de maio;Flamengo;0;0;Atlético Goianiense;29 092;Estádio do Maracanã; Rio de Janeiro;78.838
+oitavas;2017;24 de maio;Atlético Goianiense;1;2;Flamengo;13 211;Estádio Serra Dourada; Goiânia;42.000
+oitavas;2017;26 de abril;Santos;2;0;Paysandu;"6 266
+";Estádio Vila Belmiro; Santos;16.068
+oitavas;2017;10 de maio;Paysandu;1;3;Santos;11 733;Estádio Mangueirão; Belém;45.007
+oitavas;2017;17 de maio;Grêmio;3;1;Fluminense;20 836;Arena do Grêmio; Porto Alegre;55.662
+oitavas;2017;31 de maio;Fluminense;0;2;Grêmio;19 445;Estádio do Maracanã; Rio de Janeiro;78.838
+oitavas;2017;10 de maio;Santa Cruz;0;0;Atlético Paranaense;"1 533
+";Estádio do Arruda; Recife;60.044
+oitavas;2017;31 de maio;Atlético Paranaense;2;0;Santa Cruz;14 986;Arena da Baixada; Curitiba;40.305
+oitavas;2017;17 de maio;Palmeiras;1;0;Internacional;31 463;Allianz Parque; São Paulo;43.713
+oitavas;2017;31 de maio;Internacional;2;1;Palmeiras;31 871;Estádio Beira-Rio; Porto Alegre;50.128
+oitavas;2017;3 de maio;Cruzeiro;1;0;Chapecoense;"8 516
+";Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2017;1 de junho;Chapecoense;0;0;Cruzeiro;"6 387
+";Arena Condá; Chapecó;15.765
+quartas;2017;29 de junho;Atlético Mineiro;1;0;Botafogo;19 871;Estádio Independência; Belo Horizonte;23.018
+quartas;2017;26 de julho;Botafogo;3;0;Atlético Mineiro;24 276;Estádio Nilton Santos; Rio de Janeiro;34.171
+quartas;2017;28 de junho;Flamengo;2;0;Santos;14 498;Estádio Luso Brasileiro; Rio de Janeiro;6.437
+quartas;2017;26 de julho;Santos;4;2;Flamengo;12 507;Estádio Vila Belmiro; Santos;16.068
+quartas;2017;28 de junho;Grêmio;4;0;Atlético Paranaense;25 738;Arena do Grêmio; Porto Alegre;55.662
+quartas;2017;27 de julho;Atlético Paranaense;2;3;Grêmio;11 999;Arena da Baixada; Curitiba;40.305
+quartas;2017;28 de junho;Palmeiras;3;3;Cruzeiro;32 067;Allianz Parque; São Paulo;43.713
+quartas;2017;26 de julho;Cruzeiro;1;1;Palmeiras;41 660;Estádio Mineirão; Belo Horizonte;61.846
+semi;2017;16 de agosto;Botafogo;0;0;Flamengo;30 885;Estádio Nilton Santos; Rio de Janeiro;34.171
+semi;2017;23 de agosto;Flamengo;1;0;Botafogo;47 573;Estádio do Maracanã; Rio de Janeiro;78.838
+semi;2017;16 de agosto;Grêmio;1;0;Cruzeiro;41 711;Arena do Grêmio; Porto Alegre;55.662
+semi;2017;23 de agosto;Cruzeiro;1;0;Grêmio;50 243;Estádio Mineirão; Belo Horizonte;61.846
+final;2017;7 de setembro;Flamengo;1;1;Cruzeiro;56 135;Estádio do Maracanã; Rio de Janeiro;78.838
+final;2017;27 de setembro;Cruzeiro;0;0;Flamengo;56 467;Estádio Mineirão; Belo Horizonte;61.846
+terceira;2018;28 de fevereiro;Atlético Paranaense;0;0;Ceará;"8 646
+";Arena da Baixada; Curitiba;40.305
+terceira;2018;15 de março;Ceará;1;1;Atlético Paranaense;13 088;Estádio Castelão; Fortaleza;40.149
+terceira;2018;1 de março;Internacional;2;0;Cianorte;10 996;Estádio Beira-Rio; Porto Alegre;50.128
+terceira;2018;14 de março;Cianorte;0;2;Internacional;"2 348
+";Estádio Albino Turbay; Cianorte;4.000
+terceira;2018;1 de março;Fluminense;1;2;Avaí;"7 339
+";Estádio Nilton Santos; Rio de Janeiro;34.171
+terceira;2018;15 de março;Avaí;1;0;Fluminense;"8 258
+";Estádio da Ressacada; Florianópolis;17.826
+terceira;2018;28 de fevereiro;Goiás;1;0;Coritiba;15 267;Estádio Serra Dourada; Goiânia;42.000
+terceira;2018;14 de março;Coritiba;1;1;Goiás;"4 694
+";Estádio Couto Pereira; Curitiba;40.502
+terceira;2018;28 de fevereiro;Ponte Preta;0;0;Sampaio Corrêa;"2 938
+";Estádio Moisés Lucarelli; Campinas;17.728
+terceira;2018;15 de março;Sampaio Corrêa;0;0;Ponte Preta;"9 923
+";Estádio Castelão; São Luís;40.149
+terceira;2018;28 de fevereiro;São Paulo;2;0;CRB;"8 514
+";Estádio do Morumbi; São Paulo;72.039
+terceira;2018;14 de março;CRB;0;3;São Paulo;10 550;Estádio Rei Pelé; Maceió;19.105
+terceira;2018;28 de fevereiro;Bragantino;1;0;Vitória;"4 091
+";Estádio Nabi Abi Chedid; Bragança Paulista;17.724
+terceira;2018;15 de março;Vitória;3;0;Bragantino;"6 023
+";Estádio Barradão; Salvador;34.535
+terceira;2018;28 de fevereiro;Figueirense;0;1;Atlético Mineiro;"8 358
+";Estádio Orlando Scarpelli; Florianópolis;19.584
+terceira;2018;14 de março;Atlético Mineiro;1;2;Figueirense;13 855;Estádio Independência; Belo Horizonte;23.018
+terceira;2018;28 de fevereiro;Ferroviário;1;1;Vila Nova;"1 880
+";Estádio Presidente Vargas; Fortaleza;20.262
+terceira;2018;15 de março;Vila Nova;0;1;Ferroviário;28 751;Estádio Serra Dourada; Goiânia;42.000
+terceira;2018;28 de fevereiro;Náutico;2;1;Cuiabá;"4 302
+";Arena Pernambuco; São Lourenço da Mata;44.300
+terceira;2018;14 de março;Cuiabá;0;1;Náutico;"0
+ ";Arena Pantanal; Cuiabá;44.000
+quarta;2018;11 de abril;Ponte Preta;3;0;Náutico;"3 373
+";Estádio Moisés Lucarelli; Campinas;17.728
+quarta;2018;18 de abril;Náutico;1;0;Ponte Preta;"456
+ ";Arena Pernambuco; São Lourenço da Mata;44.300
+quarta;2018;4 de abril;Atlético Paranaense;2;1;São Paulo;22 865;Arena da Baixada; Curitiba;40.305
+quarta;2018;19 de abril;São Paulo;2;2;Atlético Paranaense;27 812;Estádio do Morumbi; São Paulo;72.039
+quarta;2018;11 de abril;Avaí;2;2;Goiás;"7 590
+";Estádio da Ressacada; Florianópolis;17.826
+quarta;2018;18 de abril;Goiás;2;0;Avaí;19 226;Estádio Serra Dourada; Goiânia;42.000
+quarta;2018;11 de abril;Internacional;2;1;Vitória;16 580;Estádio Beira-Rio; Porto Alegre;50.128
+quarta;2018;19 de abril;Vitória;1;0;Internacional;"5 878
+";Estádio Barradão; Salvador;34.535
+quarta;2018;4 de abril;Atlético Mineiro;4;0;Ferroviário;12 997;Estádio Independência; Belo Horizonte;23.018
+quarta;2018;18 de abril;Ferroviário;2;2;Atlético Mineiro;"1 105
+";Estádio Castelão; Fortaleza;40.149
+oitavas;2018;2 de maio;Atlético Mineiro;0;0;Chapecoense;18 736;Estádio Independência; Belo Horizonte;23.018
+oitavas;2018;16 de maio;Chapecoense;0;0;Atlético Mineiro;"7 986
+";Arena Condá; Chapecó;15.765
+oitavas;2018;16 de maio;Atlético Paranaense;1;2;Cruzeiro;10 327;Arena da Baixada; Curitiba;40.305
+oitavas;2018;16 de julho;Cruzeiro;1;1;Atlético Paranaense;35 772;Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2018;9 de maio;Bahia;3;0;Vasco da Gama;13 447;Arena Fonte Nova; Salvador;47.907
+oitavas;2018;16 de julho;Vasco da Gama;2;0;Bahia;17 011;Estádio de São Januário; Rio de Janeiro;21.880
+oitavas;2018;25 de abril;Goiás;0;2;Grêmio;13 550;Estádio Serra Dourada; Goiânia;42.000
+oitavas;2018;9 de maio;Grêmio;3;1;Goiás;11 118;Arena do Grêmio; Porto Alegre;55.662
+oitavas;2018;25 de abril;Vitória;0;0;Corinthians;11 411;Estádio Barradão; Salvador;34.535
+oitavas;2018;10 de maio;Corinthians;3;1;Vitória;29 625;Arena Corinthians; São Paulo;45.000
+oitavas;2018;9 de maio;América Mineiro;1;2;Palmeiras;11 010;Estádio Independência; Belo Horizonte;23.018
+oitavas;2018;23 de maio;Palmeiras;1;1;América Mineiro;22 831;Allianz Parque; São Paulo;43.713
+oitavas;2018;2 de maio;Ponte Preta;0;1;Flamengo;"9 060
+";Estádio Moisés Lucarelli; Campinas;17.728
+oitavas;2018;10 de maio;Flamengo;0;0;Ponte Preta;52 497;Estádio do Maracanã; Rio de Janeiro;78.838
+oitavas;2018;10 de maio;Santos;5;1;Luverdense;"3 590
+";Estádio Vila Belmiro; Santos;16.068
+oitavas;2018;17 de maio;Luverdense;2;1;Santos;"1 838
+";Estádio Passo das Emas; Lucas do Rio Verde;10.000
+quartas;2018;1 de agosto;Corinthians;1;0;Chapecoense;23 624;Arena Corinthians; São Paulo;45.000
+quartas;2018;15 de agosto;Chapecoense;0;1;Corinthians;10 722;Arena Condá; Chapecó;15.765
+quartas;2018;1 de agosto;Grêmio;1;1;Flamengo;37 358;Arena do Grêmio; Porto Alegre;55.662
+quartas;2018;15 de agosto;Flamengo;1;0;Grêmio;50 803;Estádio do Maracanã; Rio de Janeiro;78.838
+quartas;2018;2 de agosto;Bahia;0;0;Palmeiras;27 014;Arena Fonte Nova; Salvador;47.907
+quartas;2018;16 de agosto;Palmeiras;1;0;Bahia;28 057;Estádio do Pacaembu; São Paulo;37.730
+quartas;2018;1 de agosto;Santos;0;1;Cruzeiro;"7 134
+";Estádio Vila Belmiro; Santos;16.068
+quartas;2018;15 de agosto;Cruzeiro;1;2;Santos;43 231;Estádio Mineirão; Belo Horizonte;61.846
+semi;2018;12 de setembro;Flamengo;0;0;Corinthians;48 822;Estádio do Maracanã; Rio de Janeiro;78.838
+semi;2018;26 de setembro;Corinthians;2;1;Flamengo;44 249;Arena Corinthians; São Paulo;45.000
+semi;2018;12 de setembro;Palmeiras;0;1;Cruzeiro;32 960;Allianz Parque; São Paulo;43.713
+semi;2018;26 de setembro;Cruzeiro;1;1;Palmeiras;37 940;Estádio Mineirão; Belo Horizonte;61.846
+final;2018;10 de outubro;Cruzeiro;1;0;Corinthians;46 170;Estádio Mineirão; Belo Horizonte;61.846
+final;2018;17 de outubro;Corinthians;1;2;Cruzeiro;45 978;Arena Corinthians; São Paulo;45.000
+terceira;2019;13 de março;Ceará;1;3;Corinthians;25 648;Arena Castelão; Fortaleza;63.903
+terceira;2019;3 de abril;Corinthians;0;1;Ceará;34 639;Arena Corinthians; São Paulo;45.000
+terceira;2019;16 de abril;Vila Nova;2;0;Bragantino-PA;"7 907
+";Estádio Olímpico; Goiânia;13.500
+terceira;2019;20 de abril;Bragantino-PA;2;1;Vila Nova;"6 905
+";Estádio Mangueirão; Belém;45.007
+terceira;2019;4 de abril;Botafogo;1;1;Juventude;19 747;Estádio Nilton Santos; Rio de Janeiro;34.171
+terceira;2019;11 de abril;Juventude;2;1;Botafogo;11 115;Estádio Alfredo Jaconi; Caxias do Sul;19.924
+terceira;2019;3 de abril;ABC;1;0;Santa Cruz;"1 878
+";Estádio Frasqueirão; Natal;14.740
+terceira;2019;10 de abril;Santa Cruz;3;0;ABC;"8 897
+";Estádio do Arruda; Recife;60.044
+terceira;2019;3 de abril;Luverdense;0;0;Fluminense;"2 142
+";Estádio Passo das Emas; Lucas do Rio Verde;10.000
+terceira;2019;10 de abril;Fluminense;2;0;Luverdense;"5 970
+";Estádio do Maracanã; Rio de Janeiro;78.838
+terceira;2019;2 de abril;CRB;1;1;Bahia;"4 131
+";Estádio Rei Pelé; Maceió;19.105
+terceira;2019;9 de abril;Bahia;1;0;CRB;18 272;Arena Fonte Nova; Salvador;47.907
+terceira;2019;4 de abril;Atlético Goianiense;1;0;Santos;"9 556
+";Estádio Antônio Accioly; Goiânia;12.500
+terceira;2019;11 de abril;Santos;3;0;Atlético Goianiense;11 623;Estádio Vila Belmiro; Santos;16.068
+terceira;2019;27 de março;Chapecoense;3;2;Criciúma;"5 392
+";Arena Condá; Chapecó;15.765
+terceira;2019;10 de abril;Criciúma;0;2;Chapecoense;"9 979
+";Estádio Heriberto Hülse; Criciúma;19.300
+terceira;2019;13 de março;Botafogo-PB;0;2;Londrina;"9 766
+";Estádio Almeidão; João Pessoa;19.000
+terceira;2019;3 de abril;Londrina;3;3;Botafogo-PB;"1 835
+";Estádio do Café; Londrina;30.000
+terceira;2019;14 de março;Vasco da Gama;3;2;Avaí;12 923;Estádio de São Januário; Rio de Janeiro;21.880
+terceira;2019;10 de abril;Avaí;0;1;Vasco da Gama;14 304;Estádio da Ressacada; Florianópolis;17.826
+quarta;2019;24 de abril;Juventude;0;0;Vila Nova;"5 843
+";Estádio Alfredo Jaconi; Caxias do Sul;19.924
+quarta;2019;7 de maio;Vila Nova;0;0;Juventude;20 322;Estádio Serra Dourada; Goiânia;42.000
+quarta;2019;17 de abril;Fluminense;2;0;Santa Cruz;19 026;Estádio do Maracanã; Rio de Janeiro;78.838
+quarta;2019;25 de abril;Santa Cruz;2;0;Fluminense;18 935;Estádio do Arruda; Recife;60.044
+quarta;2019;17 de abril;Chapecoense;1;0;Corinthians;"6 985
+";Arena Condá; Chapecó;15.765
+quarta;2019;24 de abril;Corinthians;2;0;Chapecoense;33 582;Arena Corinthians; São Paulo;45.000
+quarta;2019;17 de abril;Santos;2;0;Vasco da Gama;"8 659
+";Estádio Vila Belmiro; Santos;16.068
+quarta;2019;24 de abril;Vasco da Gama;2;1;Santos;"8 556
+";Estádio de São Januário; Rio de Janeiro;21.880
+quarta;2019;18 de abril;Bahia;4;0;Londrina;17 616;Arena Fonte Nova; Salvador;47.907
+quarta;2019;25 de abril;Londrina;2;1;Bahia;"752
+ ";Estádio do Café; Londrina;30.000
+oitavas;2019;23 de maio;Internacional;3;1;Paysandu;13 568;Estádio Beira-Rio; Porto Alegre;50.128
+oitavas;2019;29 de maio;Paysandu;0;1;Internacional;10 141;Estádio Mangueirão; Belém;45.007
+oitavas;2019;15 de maio;Corinthians;0;1;Flamengo;30 364;Arena Corinthians; São Paulo;45.000
+oitavas;2019;4 de junho;Flamengo;1;0;Corinthians;55 586;Estádio do Maracanã; Rio de Janeiro;78.838
+oitavas;2019;15 de maio;Atlético Mineiro;0;0;Santos;"9 751
+";Estádio Independência; Belo Horizonte;23.018
+oitavas;2019;6 de junho;Santos;1;2;Atlético Mineiro;15 407;Estádio do Pacaembu; São Paulo;37.730
+oitavas;2019;22 de maio;Juventude;0;0;Grêmio;"8 745
+";Estádio Alfredo Jaconi; Caxias do Sul;19.924
+oitavas;2019;29 de maio;Grêmio;3;0;Juventude;19 560;Arena do Grêmio; Porto Alegre;55.662
+oitavas;2019;22 de maio;Sampaio Corrêa;0;1;Palmeiras;20 832;Estádio Castelão; São Luís;40.149
+oitavas;2019;30 de maio;Palmeiras;2;0;Sampaio Corrêa;26 880;Allianz Parque; São Paulo;43.713
+oitavas;2019;16 de maio;Fortaleza;0;0;Athletico Paranaense;26 422;Arena Castelão; Fortaleza;63.903
+oitavas;2019;5 de junho;Athletico Paranaense;1;0;Fortaleza;14 863;Arena da Baixada; Curitiba;40.305
+oitavas;2019;15 de maio;Fluminense;1;1;Cruzeiro;15 912;Estádio do Maracanã; Rio de Janeiro;78.838
+oitavas;2019;5 de junho;Cruzeiro;2;2;Fluminense;40 056;Estádio Mineirão; Belo Horizonte;61.846
+oitavas;2019;22 de maio;São Paulo;0;1;Bahia;19 508;Estádio do Morumbi; São Paulo;72.039
+oitavas;2019;29 de maio;Bahia;1;0;São Paulo;36 016;Arena Fonte Nova; Salvador;47.907
+quartas;2019;10 de julho;Grêmio;1;1;Bahia;28 838;Arena do Grêmio; Porto Alegre;55.662
+quartas;2019;17 de julho;Bahia;0;1;Grêmio;46 341;Arena Fonte Nova; Salvador;47.907
+quartas;2019;10 de julho;Athletico Paranaense;1;1;Flamengo;21 306;Arena da Baixada; Curitiba;40.305
+quartas;2019;17 de julho;Flamengo;1;1;Athletico Paranaense;64 844;Estádio do Maracanã; Rio de Janeiro;78.838
+quartas;2019;11 de julho;Cruzeiro;3;0;Atlético Mineiro;41 379;Estádio Mineirão; Belo Horizonte;61.846
+quartas;2019;17 de julho;Atlético Mineiro;2;0;Cruzeiro;21 109;Estádio Independência; Belo Horizonte;23.018
+quartas;2019;10 de julho;Palmeiras;1;0;Internacional;36 443;Allianz Parque; São Paulo;43.713
+quartas;2019;17 de julho;Internacional;1;0;Palmeiras;38 934;Estádio Beira-Rio; Porto Alegre;50.128
+semi;2019;14 de agosto;Grêmio;2;0;Athletico Paranaense;40 175;Arena do Grêmio; Porto Alegre;55.662
+semi;2019;4 de setembro;Athletico Paranaense;2;0;Grêmio;26 978;Arena da Baixada; Curitiba;40.305
+semi;2019;7 de agosto;Cruzeiro;0;1;Internacional;27 371;Estádio Mineirão; Belo Horizonte;61.846
+semi;2019;4 de setembro;Internacional;3;0;Cruzeiro;41 880;Estádio Beira-Rio; Porto Alegre;50.128
+final;2019;11 de setembro;Athletico Paranaense;1;0;Internacional;38 490;Arena da Baixada; Curitiba;40.305
+final;2019;18 de setembro;Internacional;1;2;Athletico Paranaense;44 857;Estádio Beira-Rio; Porto Alegre;50.128
